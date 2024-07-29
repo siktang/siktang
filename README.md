@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siktang" alt="siktang" /></a> </p>
 
-- 🔭 I’m currently working on **Playpal**
+- 🔭 I’m currently fine tuning **Playpal**
 
 - 🌱 I’m currently learning **Typescript, Next.js, UX/UI design**
 
