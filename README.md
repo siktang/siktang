@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denise Deng</h1>
-<h3 align="center">Full Stack developer and Lifelong Learner (who also has worked in social service/healthcare for 12+ years!)</h3>
+<h3 align="center">Full Stack developer and Lifelong Learner</h3>
+<h4 align="center">(who also has worked in social service/healthcare for 12+ years!)</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siktang" alt="siktang" /></a> </p>
 
